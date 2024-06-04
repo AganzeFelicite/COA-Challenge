@@ -14,7 +14,6 @@ body {
   display: flex;
   justify-items: center;
   align-items: center;
-  flex-grow: 1;
 }
 .box {
   width: 293px;
@@ -35,7 +34,7 @@ body {
   opacity: 0px;
 
   font-family: DIN Condensed;
-  font-size: 38px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 38px;
   text-align: left;
